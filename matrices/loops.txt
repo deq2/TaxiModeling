@@ -1,0 +1,7 @@
+ for a = 1:3:40
+        for b = 1:3:43-a
+            t = [t; a, b, (44 -a -b)]
+            
+            
+        end
+ end
